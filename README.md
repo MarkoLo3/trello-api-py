@@ -1,1 +1,1 @@
-Python Skripta Koje Pomocu Trello API-a Dodaje i Cita Kartice Sa Board-a
+Python script that uses Trello API to create, read cards from the board.
